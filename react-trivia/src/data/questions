@@ -1,0 +1,84 @@
+const questions = [
+  {
+    question: "What element did Marie Curie discover that glows in the dark?",
+    answer: "Radium"
+  },
+  {
+    question: "What is the name of Penelope and Odysseus' son?",
+    answer: "Telemachus"
+  },
+  {
+    question: "How many years was Odysseus captive on Calypso's island?",
+    answer: "Seven years"
+  },
+  {
+    question: "Before marrying Hades, what was Persephone’s original name?",
+    answer: "Kore"
+  },
+  {
+    question: "Penicillin is derived from what type of microorganism?",
+    answer: "Fungus"
+  },
+  {
+    question: "What microorganism is commonly used to produce insulin for diabetic patients?",
+    answer: "Genetically modified *Escherichia coli* (E. coli)"
+  },
+  {
+    question: "What microorganism causes thrush, vaginal infections, and is used to brew beer?",
+    answer: "Yeast"
+  },
+  {
+    question: "What is the longest species of snake in the world?",
+    answer: "Reticulated python"
+  },
+  {
+    question: "What is molten rock called when it is still beneath the earth's crust?",
+    answer: "Magma"
+  },
+  {
+    question: "What planet is known for its giant red storm called the Great Red Spot?",
+    answer: "Jupiter"
+  },
+  {
+    question: "Which element is essential for thyroid hormone production in the human body?",
+    answer: "Iodine"
+  },
+  {
+    question: "What subatomic particle has a positive charge?",
+    answer: "Proton"
+  },
+  {
+    question: "What Greek hero killed the Minotaur in the labyrinth?",
+    answer: "Theseus"
+  },
+  {
+    question: "What is the scientific name for the process by which plants make their food?",
+    answer: "Photosynthesis"
+  },
+  {
+    question: "In Greek mythology, who turned Arachne into a spider?",
+    answer: "Athena"
+  },
+  {
+    question: "Who is the Roman equivalent of the Greek goddess Artemis?",
+    answer: "Diana"
+  },
+  {
+    question: "Which goddess is said to have sprung fully grown from Zeus’ head?",
+    answer: "Athena"
+  },
+  {
+    question: "Which scientist proposed the three laws of motion?",
+    answer: "Isaac Newton"
+  },
+  {
+    question: "In Egyptian mythology, who is the god of the dead and embalming?",
+    answer: "Anubis"
+  },
+  {
+    question: "What is the largest organ in the human body?",
+    answer: "Skin"
+  }
+];
+
+export default questions;
